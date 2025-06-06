@@ -1,0 +1,12 @@
+# Issue template configuration
+blank_issues_enabled: true
+contact_links:
+  - name: 🤖 GitHub Copilot Chat
+    url: https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide
+    about: Ask questions directly in your IDE using GitHub Copilot Chat
+  - name: 📚 MCP Documentation
+    url: https://modelcontextprotocol.io/docs
+    about: Model Context Protocol official documentation
+  - name: 🔗 Active Network API Docs
+    url: https://developer.active.com
+    about: Active Network API v2 documentation and guides
